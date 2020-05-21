@@ -2,6 +2,8 @@
 
 Full-Stack Developer
 
+## 코드는 비공개입니다.
+
 ### [BE 프로젝트1. 나를 소개하는 홈페이지 만들기](https://seokr.tistory.com/545)
 
 - HTML, CSS, Servlet
