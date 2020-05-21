@@ -82,23 +82,6 @@ Full-Stack Developer
   - [프로젝트3. 예약관리 시스템: 메인페이지(BE) PASS](https://seokr.tistory.com/627)
 
 
-
-- **프로젝트 시작**
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject3/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
-
-
-
 ### [FE_프로젝트3. 예약관리 시스템: 메인페이지](https://seokr.tistory.com/572?category=757303)
 
 - HTML, CSS, HTML Templating, JavaScript, Event Delegation, Spring, RestController, Web API
@@ -131,22 +114,6 @@ Full-Stack Developer
 
 
 
-- **프로젝트 시작**
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject3/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
-
-
-
 ### [BE_프로젝트4. 예약관리 시스템: 상세페이지](https://seokr.tistory.com/584?category=757303)
 
 - HTML, CSS, HTML Templating, JavaScript, Event Delegation, handlebar, Spring, RestController, Web API
@@ -157,26 +124,9 @@ Full-Stack Developer
     - 예매자 리뷰정보의 경우 전체를 제공
 
 
-
 - **피드백 및 개선** 
   - [프로젝트4. 예약관리 시스템: 상세페이지(BE) FAIL](https://seokr.tistory.com/632)
   - [프로젝트4. 예약관리 시스템: 상세페이지(BE) PASS](https://seokr.tistory.com/634)
-
-
-
-- **프로젝트 주의 사항**
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject4/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
 
 
 
@@ -214,22 +164,6 @@ Full-Stack Developer
 
 
 
-- **프로젝트 주의 사항**
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject4/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
-
-
-
 ### [BE_프로젝트5. 예약관리 시스템:예약하기](https://seokr.tistory.com/666)
 
 - HTML, CSS, HTML Templating, JavaScript, Regular Expression, Event Delegation, handlebar, Spring, RestController, Web API, Session, Interceptor, Argument Resolver
@@ -251,7 +185,6 @@ Full-Stack Developer
   - [프로젝트5. 예약관리 시스템: 예약하기(BE) PASS](https://seokr.tistory.com/676)
 
 
-
 - **프로젝트 주의 사항**
 
   - *application.properties* 생성 (보안으로 깃에 업로드 안하도록 적용 되어 있음)
@@ -262,19 +195,6 @@ Full-Stack Developer
     spring.datasource.username={db username}
     spring.datasource.password={db password}
     ```
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject5/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
-
 
 
 ### [FE_프로젝트5. 예약관리 시스템:예약하기](https://seokr.tistory.com/666)
@@ -312,8 +232,6 @@ Full-Stack Developer
 - **피드백 및 개선**
   - [프로젝트5. 예약관리 시스템: 예약하기(FE) PASS](https://seokr.tistory.com/677)
 
-
-
 - **프로젝트 주의 사항**
 
   - *application.properties* 생성 (보안으로 깃에 업로드 안하도록 적용 되어 있음)
@@ -325,17 +243,6 @@ Full-Stack Developer
     spring.datasource.password={db password}
     ```
 
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject5/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
 
 ### [BE_프로젝트6. 예약관리 시스템: 한줄평](https://seokr.tistory.com/678)
 
@@ -362,30 +269,16 @@ Full-Stack Developer
   - [프로젝트6. 예약관리 시스템: 한줄평(BE) PASS](https://seokr.tistory.com/686)
 
 
-
 - **프로젝트 주의 사항**
 
   - *application.properties* 생성 (보안으로 깃에 업로드 안하도록 적용 되어 있음)
 
-    ```properties
+```properties
     spring.datasource.driver-class-name={db}
     spring.datasource.url={db url}
     spring.datasource.username={db username}
     spring.datasource.password={db password}
-    ```
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject6/" >> .git/info/sparse-checkout
-    git pull origin master
-    ```
-
-    
-
+```
 
 
 ### [FE_프로젝트6. 예약관리 시스템: 한줄평](https://seokr.tistory.com/678)
@@ -425,14 +318,4 @@ Full-Stack Developer
     spring.datasource.url={db url}
     spring.datasource.username={db username}
     spring.datasource.password={db password}
-    ```
-
-  - 해당 프로젝트 git clone
-
-    ```shell
-    git init
-    git config core.sparseCheckout true
-    git remote add origin https://github.com/SeokRae/boostCourse.git
-    echo "reproject6/" >> .git/info/sparse-checkout
-    git pull origin master
     ```
