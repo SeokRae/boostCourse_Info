@@ -189,12 +189,12 @@ Full-Stack Developer
 
   - *application.properties* 생성 (보안으로 깃에 업로드 안하도록 적용 되어 있음)
 
-    ```properties
+```properties
     spring.datasource.driver-class-name={db}
     spring.datasource.url={db url}
     spring.datasource.username={db username}
     spring.datasource.password={db password}
-    ```
+```
 
 
 ### [FE_프로젝트5. 예약관리 시스템:예약하기](https://seokr.tistory.com/666)
@@ -236,12 +236,12 @@ Full-Stack Developer
 
   - *application.properties* 생성 (보안으로 깃에 업로드 안하도록 적용 되어 있음)
 
-    ```properties
+```properties
     spring.datasource.driver-class-name={db}
     spring.datasource.url={db url}
     spring.datasource.username={db username}
     spring.datasource.password={db password}
-    ```
+```
 
 
 ### [BE_프로젝트6. 예약관리 시스템: 한줄평](https://seokr.tistory.com/678)
@@ -313,9 +313,9 @@ Full-Stack Developer
 
   - *application.properties* 생성 (보안으로 깃에 업로드 안하도록 적용 되어 있음)
 
-    ```properties
+```properties
     spring.datasource.driver-class-name={db}
     spring.datasource.url={db url}
     spring.datasource.username={db username}
     spring.datasource.password={db password}
-    ```
+```
